@@ -27,7 +27,7 @@
     {% endif %}
 
     <h2 class="archive__item-title" itemprop="headline">
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      <a href="{{ post.permalink }}">{{ title }}</a>
     </h2>
 
     {% if post.coauthors %}
