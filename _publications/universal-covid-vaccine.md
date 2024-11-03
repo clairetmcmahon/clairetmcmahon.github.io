@@ -8,7 +8,6 @@ excerpt: 'Booster shots for COVID-19 vaccines in the United States have undergon
 date: 2024-08-30
 venue: 'Review of Economic Design'
 paperurl: 'https://link.springer.com/article/10.1007/s10058-024-00363-z'
-briefurl: 'https://bfi.uchicago.edu/insight/research-summary/quantifying-the-social-value-of-a-universal-covid-19-vaccine-and-incentivizing-its-development/'
 citation: 'Glennerster, R., Kelly, T., McMahon, C.T. et al. Quantifying the social value of a universal COVID-19 vaccine and incentivizing its development. Rev Econ Design (2024). https://doi.org/10.1007/s10058-024-00363-z'
 ---
 
