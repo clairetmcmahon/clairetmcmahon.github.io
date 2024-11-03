@@ -6,6 +6,7 @@ permalink: 'https://www.nber.org/papers/w32984'
 coauthors: "R. Glennerster, S. Chetik, C. Che , C. Snyder"
 excerpt: 'This paper evaluates the social value of investing in vaccine research, development, and manufacturing capacity for pandemic preparedness and response. Rapid vaccination during pandemics can significantly reduce mortality, economic losses, and societal disruptions. However, vaccine manufacturers often lack sufficient incentives for speed and capacity expansion. Strategic policies by governments and international organizations could enhance these incentives and improve equitable vaccine distribution.'
 venue: 'Disease Control Priorities 4, forthcoming'
+date: 2025-01-01
 paperurl: 'https://www.nber.org/papers/w32984'
 briefsurl: 'https://bfi.uchicago.edu/insights/investing-in-vaccines-to-mitigate-harm-from-covid-19-and-future-pandemics/'
 ---
