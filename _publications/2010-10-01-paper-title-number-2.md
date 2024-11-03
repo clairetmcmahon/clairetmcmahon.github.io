@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "One and Done? Evidence of Gender and Racial Tokenism on Corporate Boards"
 collection: publications
-category: manuscripts
+category: working
+coauthors: 'E. Moon, Y. Li'
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This paper analyzes diversity of appointments to corporate boards using panel data for S&P 1500 firms from 2000Q1 to 2019Q4. Using a logistic model with two-way fixed effects and a bias correction, we evaluate the extent to which a board’s composition and the demographic characteristics of outgoing directors are associated with the appointment of diverse directors in terms of gender, race, and ethnicity.'
+date: 2024-02-01
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694128'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
