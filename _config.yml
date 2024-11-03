@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "headshot.png"
   name             : "Claire McMahon"
-  pronouns         : "she/her"  
+  pronouns         : #"she/her"  
   bio              : "Research Professional"
   location         : #"Earth"
   employer         : "University of Chicago"
