@@ -2,7 +2,7 @@
 title: "Quantifying the Social Value of a Universal COVID-19 Vaccine and Incentivizing Its Development"
 collection: publications
 category: manuscripts
-permalink: /publication/universal-covid-vaccine
+permalink: 'https://link.springer.com/article/10.1007/s10058-024-00363-z'
 coauthors: "R. Glennerster, T. Kelly, C. Snyder"
 date: 2024-08-30
 excerpt: 'This paper quantifies the social value of a universal COVID-19 vaccine over the existing COVID-19 booster vaccines using Monte Carlo Simulations. It proposes the use of an advanced market commitment to incentivize its development.'
