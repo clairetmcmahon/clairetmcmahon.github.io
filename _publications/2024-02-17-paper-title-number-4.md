@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 4"
+title: "Investing in Vaccines to Mitigate Harm from COVID-19 and Future Pandemics"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: manuscripts
+permalink: 'https://www.nber.org/papers/w32984'
+coauthors: "R. Glennerster, S. Chetik, C. Che , C. Snyder"
+date: forthcoming
+excerpt: 'This paper evaluates the social value of investing in vaccine research, development, and manufacturing capacity for pandemic preparedness and response. Rapid vaccination during pandemics can significantly reduce mortality, economic losses, and societal disruptions. However, vaccine manufacturers often lack sufficient incentives for speed and capacity expansion. Strategic policies by governments and international organizations could enhance these incentives and improve equitable vaccine distribution.'
+venue: 'Disease Control Priorities 4'
+paperurl: 'https://www.nber.org/papers/w32984'
+briefsurl: 'https://bfi.uchicago.edu/insights/investing-in-vaccines-to-mitigate-harm-from-covid-19-and-future-pandemics/'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper evaluates the social value of investing in vaccine research, development, and manufacturing capacity for pandemic preparedness and response. Rapid vaccination during pandemics can significantly reduce mortality, economic losses, and societal disruptions. However, vaccine manufacturers often lack sufficient incentives for speed and capacity expansion. Strategic policies by governments and international organizations could enhance these incentives and improve equitable vaccine distribution.
