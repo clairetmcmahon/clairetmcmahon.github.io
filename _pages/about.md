@@ -8,4 +8,4 @@ redirect_from:
 
 I am a Research Professional at the University of Chicago [Market Shaping Accelerator](https://marketshaping.uchicago.edu/) (MSA). At MSA, my research focuses on designing market shaping mechanisms to incentivize innovation for global health and pandemic preparedness priorities. I graduated from Dartmouth College with a Bachelor of Arts in Mathematics and Economics.
 
-You can reach me via email at claire.mcmahon@uchicago.edu.
+You can reach me via email at cmcmahon19@gmail.com.
