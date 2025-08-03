@@ -9,7 +9,7 @@ locale                   : "en-US"
 title                    : "Claire McMahon"
 title_separator          : "-"
 name                     : &name "Claire McMahon"
-description              : &description "Research Professional at UChicago"
+description              : &description "Economics PhD Candidate at Harvard"
 url                      : https://clairetmcmahon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "clairetmcmahon.github.io"
@@ -22,11 +22,11 @@ author:
   avatar           : "headshot.png"
   name             : "Claire McMahon"
   pronouns         : #"she/her"  
-  bio              : "Research Professional"
+  bio              : "PhD Candidate"
   location         : #"Earth"
-  employer         : "University of Chicago"
+  employer         : "Harvard University, Department of Economics"
   uri              : # URL
-  email            : "clairemcmahon@uchicago.edu" 
+  email            : "clairemcmahon@fas.harvard.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
