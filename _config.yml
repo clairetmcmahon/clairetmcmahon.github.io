@@ -80,7 +80,7 @@ publication_category:
     title: 'Publications'    
   working:
     title: 'Working Papers'
-  blogs:
+  posts:
     title: 'Blog Posts'
 
 # Site Settings
