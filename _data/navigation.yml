@@ -7,7 +7,12 @@
 main:
   - title: "Research"
     url: /research/   
+
+  - title: "Blog Posts"
+    url: /blog/
     
   - title: "CV"
     url: /files/McMahon_CV.pdf
+
+  
     
