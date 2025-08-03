@@ -22,9 +22,9 @@ author:
   avatar           : "headshot.png"
   name             : "Claire McMahon"
   pronouns         : #"she/her"  
-  bio              : "PhD Candidate"
+  bio              : "Economics PhD Candidate"
   location         : #"Earth"
-  employer         : "Harvard University, Department of Economics"
+  employer         : "Harvard University""
   uri              : # URL
   email            : "clairemcmahon@fas.harvard.edu" 
 
