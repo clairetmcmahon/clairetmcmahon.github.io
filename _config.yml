@@ -80,6 +80,8 @@ publication_category:
     title: 'Publications'    
   working:
     title: 'Working Papers'
+  blogs:
+    title: 'Blog Posts'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -219,7 +221,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  blogs:
     output: true
     permalink: /:collection/:path/
 
