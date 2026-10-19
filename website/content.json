@@ -1,0 +1,74 @@
+{
+  "name": "Claire McMahon",
+  "email": "clairemcmahon@g.harvard.edu",
+  "origin": "https://clairetmcmahon.github.io",
+  "papers": [
+    {
+      "id": "innovation-funding",
+      "title": "Selecting Innovation Funding Mechanisms: A Framework for Policymakers",
+      "coauthors": "Matthew S. Clancy, Matthew Esche, Siddhartha Haria, Christopher M. Snyder, and Caleb Watney",
+      "category": "Working papers",
+      "year": "2026",
+      "venue": "NBER Working Paper 35549 · July 2026",
+      "url": "https://www.nber.org/papers/w35549",
+      "summary": "A framework to help policymakers choose how to fund innovation, from grants and contracts to prizes and advance market commitments.",
+      "abstract": "Innovation funding mechanisms differ in how they allocate risk, decision authority, and incentives. We develop a framework organized around three questions: Can a funder articulate the work to be done, specify a successful solution, and identify the most capable performers? The answers narrow the set of viable mechanisms and help guide the choice of how to fund research and development.",
+      "links": [["Working paper", "https://www.nber.org/papers/w35549"], ["Related tool: Atlas of Innovation", "https://atlasofinnovation.org/"]]
+    },
+    {
+      "id": "universal-covid-vaccine",
+      "title": "Quantifying the Social Value of a Universal COVID-19 Vaccine and Incentivizing Its Development",
+      "coauthors": "Rachel Glennerster, Thomas Kelly, and Christopher M. Snyder",
+      "category": "Publications",
+      "year": "2024",
+      "venue": "Review of Economic Design · 2024",
+      "url": "https://doi.org/10.1007/s10058-024-00363-z",
+      "summary": "Estimating the value of a vaccine that protects against existing and future variants, and the incentives needed to develop it.",
+      "abstract": "This paper uses Monte Carlo simulations to quantify the social value of a universal COVID-19 vaccine relative to variant-specific boosters. Even under conservative assumptions about the arrival of new variants, the estimated additional health benefits exceed $900 billion. The paper proposes an advance market commitment to incentivize development.",
+      "links": [["Journal article", "https://doi.org/10.1007/s10058-024-00363-z"], ["Working paper", "https://www.nber.org/papers/w32059"], ["Research brief", "https://bfi.uchicago.edu/insight/research-summary/quantifying-the-social-value-of-a-universal-covid-19-vaccine-and-incentivizing-its-development/"]]
+    },
+    {
+      "id": "dcp4",
+      "title": "Investing in Vaccines to Mitigate Harm from COVID-19 and Future Pandemics",
+      "coauthors": "Rachel Glennerster, Catherine Che, Sarrin M. Chethik, and Christopher M. Snyder",
+      "category": "Publications",
+      "year": "2024",
+      "venue": "Disease Control Priorities 4 · Forthcoming",
+      "url": "https://www.nber.org/papers/w32984",
+      "summary": "The social value of investing in vaccine research, development, and manufacturing capacity for pandemic preparedness.",
+      "abstract": "Rapid vaccination during pandemics can reduce mortality, economic losses, and societal disruption. Vaccine manufacturers, however, often lack sufficient incentives for speed and capacity expansion. This paper examines how governments and international organizations can strengthen these incentives and improve equitable vaccine distribution.",
+      "links": [["Working paper", "https://www.nber.org/papers/w32984"], ["Research brief", "https://bfi.uchicago.edu/insights/investing-in-vaccines-to-mitigate-harm-from-covid-19-and-future-pandemics/"]]
+    },
+    {
+      "id": "iuds-get-degrees",
+      "title": "IUDs to Degrees: The Impact of Access to Contraceptives on High School Graduation Rates",
+      "coauthors": "",
+      "category": "Working papers",
+      "year": "2024",
+      "venue": "Working paper · 2024",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4944395",
+      "summary": "How access to long-acting reversible contraceptives affects educational outcomes, using evidence from Colorado.",
+      "abstract": "I study the 2009 Colorado Family Planning Initiative, which expanded the availability and affordability of long-acting reversible contraceptives. An event-study design uses geographic variation in access to participating clinics to estimate changes in high school graduation rates. The findings suggest that access to reliable, affordable contraception improves girls’ ability to invest in their education.",
+      "links": [["Working paper", "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4944395"]]
+    },
+    {
+      "id": "one-and-done",
+      "title": "One and Done? Evidence of Gender and Racial Tokenism on Corporate Boards",
+      "coauthors": "E. Moon and Y. Li",
+      "category": "Working papers",
+      "year": "2024",
+      "venue": "Working paper · 2024",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694128",
+      "summary": "Examining how board composition and outgoing directors’ characteristics relate to diversity in new appointments.",
+      "abstract": "Using panel data for S&P 1500 firms from 2000 to 2019, this paper studies diversity in corporate board appointments. A logistic model with two-way fixed effects and a bias correction evaluates how a board’s existing composition and outgoing directors’ demographic characteristics are associated with new appointments by gender, race, and ethnicity.",
+      "links": [["Working paper", "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4694128"]]
+    }
+  ],
+  "posts": [
+    {"id": "neotest_01", "year": "2025", "date": "June 23, 2025", "title": "The Case for Prioritizing Neonatal Sepsis Diagnostics", "publisher": "Center for Global Development", "coauthors": "Akhil Bansal, Georgia Bradley, Arthur Baker, and Siddhartha Haria", "url": "https://www.cgdev.org/blog/case-prioritizing-neonatal-sepsis-diagnostics"},
+    {"id": "neotest_02", "year": "2025", "date": "June 23, 2025", "title": "When Markets Fail Newborns: The Case for an Advance Market Commitment for Neonatal Sepsis Diagnostics", "publisher": "Center for Global Development", "coauthors": "Siddhartha Haria, Akhil Bansal, and Neeraj Sood", "url": "https://www.cgdev.org/blog/when-markets-fail-newborns-case-advance-market-commitment-neonatal-sepsis-diagnostics"},
+    {"id": "neotest_03", "year": "2025", "date": "June 23, 2025", "title": "Why Expertise Matters: Building the Coalition to Launch Our Neonatal Sepsis AMC", "publisher": "Center for Global Development", "coauthors": "Akhil Bansal, Rebecca Rolapp, and Siddhartha Haria", "url": "https://www.cgdev.org/blog/why-expertise-matters-building-coalition-launch-our-neonatal-sepsis-amc"},
+    {"id": "mic_pandemic_vaccines", "year": "2025", "date": "April 24, 2025", "title": "Vaccines Before Approval? The High-Stakes Bet Middle-Income Countries Must Make in the Next Pandemic", "publisher": "Center for Global Development", "coauthors": "Leah Rosenzweig and Siddhartha Haria", "url": "https://www.cgdev.org/blog/vaccines-approval-high-stakes-bet-middle-income-countries-must-make-next-pandemic"},
+    {"id": "broad_spectrum_antivirals", "year": "2024", "date": "August 22, 2024", "title": "Transforming Pandemic Preparedness with Platform-Based Broad-Spectrum Antivirals", "publisher": "Market Shaping Accelerator", "coauthors": "", "url": "https://marketshaping.uchicago.edu/news/transforming-pandemic-preparedness-with-platform-based-broad-spectrum-antivirals/"}
+  ]
+}
